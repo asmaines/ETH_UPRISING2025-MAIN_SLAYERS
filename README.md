@@ -11,7 +11,7 @@ There are three primary positions at the center of the agreement:
 
 - the investors, who invest capital to finance the project.
 
-The agreement specifies a total amount of funding, which is to be raised within a specified funding time period for the project to proceed. If the target is met, the funds are locked in the contract and disbursed step by step as milestones are completed and signed off
+The agreement specifies a total amount of funding, which is to be raised within a specified funding time period for the project to proceed. If the target is met, the funds are locked in the contract and disbursed step by step as milestones are completed and signed off.
 
 The funding process follows a systematic method:
 
