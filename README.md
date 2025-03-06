@@ -4,6 +4,7 @@ ETH Uprising Hackathon 2025 Pitch Project
 The MilestoneFunding smart contract is a blockchain-based funding mechanism that keeps capital in check and distributes funds to a company in a systematic and responsible way. It facilitates milestone-based and transparent financing where investors offer funding to finance a company, and the funds are released incrementally as pre-defined milestones are met.
 
 - There are three primary positions at the center of the agreement -
+
 the company:
   - the beneficiary of the funds
 the financial advisor
@@ -14,6 +15,7 @@ the financial advisor
 The agreement specifies a total amount of funding, which is to be raised within a specified funding time period for the project to proceed. If the target is met, the funds are locked in the contract and disbursed step by step as milestones are completed and signed off.
 
 - The funding process follows a systematic method -
+
 Investment Phase – Funds are invested into the contract by investors, which is tracked to ensure transparency and proper allocation.
 
 Milestone Approval – The financial advisor will ensure and approve each milestone. Only after approval will the corresponding percentage of funds be paid to the business.
