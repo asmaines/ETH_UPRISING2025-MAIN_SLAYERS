@@ -15,12 +15,12 @@ The agreement specifies a total amount of funding, which is to be raised within 
 
 The funding process follows a systematic method:
 
-Investment Phase – Funds are invested into the contract by investors, which is tracked to ensure transparency and proper allocation.
+- Investment Phase – Funds are invested into the contract by investors, which is tracked to ensure transparency and proper allocation.
 
-Milestone Approval – The financial advisor will ensure and approve each milestone. Only after approval will the corresponding percentage of funds be paid to the business.
+- Milestone Approval – The financial advisor will ensure and approve each milestone. Only after approval will the corresponding percentage of funds be paid to the business.
 
-Plea System for Disputes – In case a milestone is in dispute, a plea can be submitted and considered before payment of the funds.
+- Plea System for Disputes – In case a milestone is in dispute, a plea can be submitted and considered before payment of the funds.
 
-Distribution of Funds – If all the milestones are met, the total funds will be fully disbursed to the company. *However, in case the target amount is not collected within the stipulated time, investors are eligible for refunds.*
+- Distribution of Funds – If all the milestones are met, the total funds will be fully disbursed to the company. *However, in case the target amount is not collected within the stipulated time, investors are eligible for refunds.*
 
 This contract provides a transparent, secure, and decentralized financing option that controls lump sum risks. With its application of milestone funding and third-party vetoes, it ensures investor confidence and ensures appropriate use of funds in a bid to achieve the project goal.
