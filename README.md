@@ -1,7 +1,7 @@
 # ETH_UPRISING2025-MAIN_SLAYERS
 ETH Uprising Hackathon 2025 Pitch Project
 
-The MilestoneFunding smart contract is a blockchain-based funding mechanism that keeps capital in check and distributes funds to a company in a systematic and responsible way. It facilitates milestone-based and transparent financing where investors offer funding to finance a company, and the funds are released incrementally as pre-defined milestones are met.
+The MilestoneVault smart contract is a blockchain-based funding mechanism that keeps capital in check and distributes funds to a company in a systematic and responsible way. It facilitates milestone-based and transparent financing where investors offer funding to finance a company, and the funds are released incrementally as pre-defined milestones are met.
 
 There are three primary positions at the center of the agreement:
 
