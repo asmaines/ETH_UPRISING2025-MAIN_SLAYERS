@@ -24,3 +24,7 @@ The funding process follows a systematic method:
 - Distribution of Funds – If all the milestones are met, the total funds will be fully disbursed to the company. *However, in case the target amount is not collected within the stipulated time, investors are eligible for refunds.*
 
 This contract provides a transparent, secure, and decentralized financing option that controls lump sum risks. With its application of milestone funding and third-party vetoes, it ensures investor confidence and ensures appropriate use of funds in a bid to achieve the project goal.
+
+SCROLLSCAN: https://sepolia.etherscan.io/tx/0xa62c825f2c6aa50c20ab72dae4efde0a8ae4d7033a5bfb11e1453d58bc214bc7
+
+CONTRACT ADDRESS: 0x651183caf28fe58b319a03596fb1573925eb8eb9
